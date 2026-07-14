@@ -65,27 +65,28 @@ meaningful business insights through SQL, Power BI, and DAX, enabling users to m
 *  Total Processing Fees
 
 
-📂 Project Workflow
-Banking Dataset
-       │
-       ▼
-Data Cleaning (Power Query)
-       │
-       ▼
-SQL Analysis (MySQL)
-       │
-       ▼
-Data Modeling
-       │
-       ▼
-DAX Calculations
-       │
-       ▼
-Power BI Dashboard
-       │
-       ▼
-Business Insights
-📌 Conclusion
+* 📂 Project Workflow
+* Banking Dataset
+*       │
+*       ▼
+* Data Cleaning (Power Query)
+*       │
+*       ▼
+* SQL Analysis (MySQL)
+*       │
+*       ▼
+* Data Modeling
+*      │
+*      ▼
+* DAX Calculations
+*       │
+*       ▼
+* Power BI Dashboard
+*       │
+*       ▼
+* Business Insights
+  
+*   📌 Conclusion
 
 This Banking Business Intelligence Dashboard demonstrates how SQL, Power BI, Power Query,
 and DAX can be combined to transform raw banking data into actionable financial insights.
