@@ -21,54 +21,48 @@ meaningful business insights through SQL, Power BI, and DAX, enabling users to m
 *  📊 Dashboard Pages
 *  🏠 Home
 
-Provides a high-level overview of the banking business through KPI cards and navigation buttons.
+*   Provides a high-level overview of the banking business through KPI cards and navigation buttons.
 
--> Key Metrics
--> Total Clients
--> Total Deposit
--> Total Loan
--> Total Fees
--> Bank Deposits
--> Business Lending
--> 💳 Loan Analysis
+*  Key Metrics
+*  Total Clients
+*  Total Deposit
+*  Total Loan
+*  Total Fees
+*  Bank Deposits
+*  Business Lending
+*  💳 Loan Analysis
 
-Provides detailed customer-level analysis.
+*   Provides detailed customer-level analysis.
 
-Features
-Customer Details
-Account Information
-Deposit Details
-Loan Information
-Interactive Drill Through
-📈 Key Performance Indicators (KPIs)
-👥 Total Clients
-💰 Total Deposit
-🏦 Bank Deposit
-💳 Bank Loan
-🏢 Business Lending
-💵 Savings Accounts
-🏧 Checking Accounts
-🌍 Foreign Currency Accounts
-💳 Credit Card Balance
-💲 Total Credit Card Amount
-📊 Total Loan
-💼 Total Processing Fees
-📌 SQL Analysis
+* 📈 Key Performance Indicators (KPIs)
+* 👥 Total Clients
+* 💰 Total Deposit
+* 🏦 Bank Deposit
+* 💳 Bank Loan
+* 🏢 Business Lending
+* 💵 Savings Accounts
+* 🏧 Checking Accounts
+* 🌍 Foreign Currency Accounts
+* 💳 Credit Card Balance
+* 💲 Total Credit Card Amount
+* 📊 Total Loan
+* 💼 Total Processing Fees
+* 📌 SQL Analysis
 
-SQL queries were used to calculate important banking metrics, including:
+*   SQL queries were used to calculate important banking metrics, including:
 
-Total Clients
-Total Deposit
-Total Loan
-Bank Deposit
-Bank Loan
-Business Lending
-Savings Accounts
-Checking Accounts
-Foreign Currency Accounts
-Credit Card Balance
-Total Credit Card Amount
-Total Processing Fees
+*  Total Clients
+*  Total Deposit
+*  Total Loan
+*  Bank Deposit
+*  Bank Loan
+*  Business Lending
+*  Savings Accounts
+*  Checking Accounts
+*  Foreign Currency Accounts
+*  Credit Card Balance
+*  Total Credit Card Amount
+*  Total Processing Fees
 
 
 📂 Project Workflow
