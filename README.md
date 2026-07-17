@@ -64,9 +64,9 @@ meaningful business insights through SQL, Power BI, and DAX, enabling users to m
    *  Total Credit Card Amount
    *  Total Processing Fees
 
+<img width="1438" height="900" alt="image" src="https://github.com/user-attachments/assets/fa31b581-b64f-4ff4-85e0-9c2c8c11fcc2" />
 
-
-*   📌 Conclusion
+ # 📌 Conclusion
 
 This Banking Business Intelligence Dashboard demonstrates how SQL, Power BI, Power Query,
 and DAX can be combined to transform raw banking data into actionable financial insights.
