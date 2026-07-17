@@ -1,10 +1,10 @@
-🏦 Banking Business Intelligence Dashboard
+#🏦 Banking Business Intelligence Dashboard
 📌 Project Overview
-The Banking Business Intelligence Dashboard is an interactive Power BI solution designed to analyze banking operations,
+* The Banking Business Intelligence Dashboard is an interactive Power BI solution designed to analyze banking operations,
 customer deposits, lending activities, and overall financial performance. The dashboard transforms raw banking data into
 meaningful business insights through SQL, Power BI, and DAX, enabling users to monitor key financial metrics and make informed decisions.
 
-🎯 Project Objectives
+# 🎯 Project Objectives
     *  Analyze customer deposits and loan portfolios.
     *  Monitor key banking KPIs.
     *  Compare deposit and lending performance.
@@ -12,7 +12,7 @@ meaningful business insights through SQL, Power BI, and DAX, enabling users to m
     *  Track financial health through interactive visualizations.
     *  Enable drill-through analysis for detailed customer insights.
 
-🛠 Tech Stack
+# 🛠 Tech Stack
     *  Power BI – Dashboard Development & Data Visualization
     *  MySQL – Data Storage & SQL Analysis
     *  Power Query – Data Cleaning & Transformation
@@ -21,7 +21,7 @@ meaningful business insights through SQL, Power BI, and DAX, enabling users to m
     *  📊 Dashboard Pages
     *  🏠 Home
 
-*   Provides a high-level overview of the banking business through KPI cards and navigation buttons.
+# Provides a high-level overview of the banking business through KPI cards and navigation buttons.
 
     *  Key Metrics
     *  Total Clients
@@ -32,7 +32,7 @@ meaningful business insights through SQL, Power BI, and DAX, enabling users to m
     *  Business Lending
     *  💳 Loan Analysis
 
-*   Provides detailed customer-level analysis.
+#  Provides detailed customer-level analysis.
 
    * 📈 Key Performance Indicators (KPIs)
    * 👥 Total Clients
@@ -49,7 +49,7 @@ meaningful business insights through SQL, Power BI, and DAX, enabling users to m
    * 💼 Total Processing Fees
    * 📌 SQL Analysis
 
-*   SQL queries were used to calculate important banking metrics, including:
+#   SQL queries were used to calculate important banking metrics, including:
 
    *  Total Clients
    *  Total Deposit
@@ -65,27 +65,7 @@ meaningful business insights through SQL, Power BI, and DAX, enabling users to m
    *  Total Processing Fees
 
 
-* 📂 Project Workflow
-* Banking Dataset
-*       │
-*       ▼
-* Data Cleaning (Power Query)
-*       │
-*       ▼
-* SQL Analysis (MySQL)
-*       │
-*       ▼
-* Data Modeling
-*      │
-*      ▼
-* DAX Calculations
-*       │
-*       ▼
-* Power BI Dashboard
-*       │
-*       ▼
-* Business Insights
-  
+
 *   📌 Conclusion
 
 This Banking Business Intelligence Dashboard demonstrates how SQL, Power BI, Power Query,
